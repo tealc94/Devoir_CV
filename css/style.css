@@ -67,7 +67,7 @@ a{
     color: white;
 }
 
-.nav_container_link:hover{
+.nav__container--link:hover{
     text-decoration: underline;
 }
 
